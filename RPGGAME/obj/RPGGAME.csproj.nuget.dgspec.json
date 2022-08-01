@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\diaz\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj": {}
+    "C:\\Users\\Agustin\\Desktop\\taller de lenguajes 1\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\diaz\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj": {
+    "C:\\Users\\Agustin\\Desktop\\taller de lenguajes 1\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\diaz\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj",
+        "projectUniqueName": "C:\\Users\\Agustin\\Desktop\\taller de lenguajes 1\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj",
         "projectName": "RPGGAME",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\diaz\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\diaz\\rpg-2022-diazagustin99\\RPGGAME\\obj\\",
+        "projectPath": "C:\\Users\\Agustin\\Desktop\\taller de lenguajes 1\\rpg-2022-diazagustin99\\RPGGAME\\RPGGAME.csproj",
+        "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agustin\\Desktop\\taller de lenguajes 1\\rpg-2022-diazagustin99\\RPGGAME\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
